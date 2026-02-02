@@ -1,0 +1,2 @@
+cpp_pubsub:lab3_turtlesim:py_pubsub
+-DCATKIN_DEVEL_PREFIX=/home/jetauto/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jetauto/ros_ws/install -G Unix Makefiles
